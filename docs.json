@@ -14,7 +14,7 @@
   },
     "appearance": {
       "default": "dark",
-      "strict": "true"
+      "strict": true
   },
 
   "navigation": {
