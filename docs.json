@@ -8,7 +8,14 @@
     "light": "#F5F3EF",
     "dark": "#171718"
   },
-  "favicon": "/favicon.svg",
+  "favicon": {
+    "light": "/favicon.svg",
+    "dark": "/favicon-dark.svg"
+  },
+  "appearance": {
+    "default": "dark"
+    "strict": "true"
+  },
   "navigation": {
     "tabs": [
       {
@@ -90,7 +97,7 @@
     "primary": {
       "type": "button",
       "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "href": "https://app.heyallset.com"
     }
   },
   "footer": {
