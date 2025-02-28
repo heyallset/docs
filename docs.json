@@ -12,10 +12,7 @@
     "light": "/favicon.svg",
     "dark": "/favicon-dark.svg"
   },
-  "appearance": {
-    "default": "dark"
-    "strict": "true"
-  },
+
   "navigation": {
     "tabs": [
       {
