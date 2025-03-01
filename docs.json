@@ -12,11 +12,10 @@
     "light": "/favicondark.svg",
     "dark": "/favicon.svg"
   },
-    "appearance": {
-      "default": "dark",
-      "strict": true
+  "appearance": {
+    "default": "dark",
+    "strict": true
   },
-
   "navigation": {
     "tabs": [
       {
@@ -32,9 +31,7 @@
           },
           {
             "group": "Essentials",
-            "pages": [
-            
-            ]
+            "pages": []
           }
         ]
       },
@@ -95,6 +92,6 @@
       "label": "Dashboard",
       "href": "https://app.heyallset.com"
     }
-  },
   }
 }
+
