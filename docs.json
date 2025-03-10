@@ -22,11 +22,13 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Start here",
             "pages": [
-              "introduction",
-              "quickstart",
-              "development"
+              "Creating account",
+              "Get all set mobile",
+              "Set up serivces",
+              "Set up staff",
+              "Creating locations"
             ]
           },
           {
@@ -94,4 +96,3 @@
     }
   }
 }
-
