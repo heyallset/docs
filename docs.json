@@ -30,6 +30,11 @@
               "Start_here/Set-up-staff",
               "Start_here/Creating-locations"
             ]
+          },{
+            "group": "Schedule and Appointments",
+            "pages": [
+              "Schedule_and_Appointments/Appointments-as-a-Merchant"
+            ]
           },
           {
             "group": "Essentials",
