@@ -33,7 +33,10 @@
           },{
             "group": "Schedule and Appointments",
             "pages": [
-              "Schedule_and_Appointments/Appointments-as-a-Merchant"
+              "Schedule_and_Appointments/Appointments-as-a-Merchant",
+              "Schedule_and_Appointments/Creating-Recurring-Appointments",
+              "Schedule_and_Appointments/Setting-Break-Times",
+              "Schedule_and_Appointments/Setting-Recurring-Breaks"
             ]
           },
           {
