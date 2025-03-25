@@ -57,8 +57,20 @@
             "group": "Business Policy",
             "pages": [
               "Business_Policy/Consent-Policies",
+              "Business_Policy/Waiver-Policies",
               "Business_Policy/Enabling-Dual-Pricing",
-              "Business_Policy/Require-Credit-Card-for-Booking"
+              "Business_Policy/Require-Credit-Card-for-Booking",
+              "Business_Policy/Review-Link",     
+            ]
+          },
+          {
+            "group": "Export Clients",
+            "pages": [
+              "Export_Clients/Exporting-Clients-from-Acuity",
+              "Export_Clients/Exporting-Clients-from-Booksy",
+              "Export_Clients/Exporting-Clients-from-Freshay",
+              "Export_Clients/Exporting-Clients-from-Square",
+              "Export_Clients/Exporting-Clients-from-Vagaro"
             ]
           },
           {
