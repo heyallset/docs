@@ -17,9 +17,10 @@
     "strict": true
   },
   "navigation": {
-    "tabs": [
+    "dropdowns": [
       {
-        "tab": "Guides",
+        "dropdown": "Merchant Portal",
+        "icon": "layout-dashboard",
         "groups": [
           {
             "group": "Start Here",
