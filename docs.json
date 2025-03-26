@@ -86,7 +86,7 @@
       {
         "dropdown": "Updates",
         "icon": "bullhorn",
-        "pages": "/updates"
+        "pages": "Updates/updates"
       }
     ]
   },
