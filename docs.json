@@ -31,7 +31,8 @@
               "Start_here/Set-up-staff",
               "Start_here/Creating-locations"
             ]
-          },{
+          },
+          {
             "group": "Schedule and Appointments",
             "pages": [
               "Schedule_and_Appointments/Appointments-as-a-Merchant",
@@ -39,7 +40,8 @@
               "Schedule_and_Appointments/Setting-Break-Times",
               "Schedule_and_Appointments/Setting-Recurring-Breaks"
             ]
-          },{
+          },
+          {
             "group": "Sales and Payments",
             "pages": [
               "Sales_and_Payments/Creating-New-Checkout",
@@ -47,14 +49,16 @@
               "Sales_and_Payments/Paying-by-Card",
               "Sales_and_Payments/Voiding-a-Sale-Transaction"
             ]
-          },{
+          },
+          {
             "group": "Manage your clients",
             "pages": [
               "Manage_your_Clients/Adding-New-Clients",
               "Manage_your_Clients/Blacklisting-a-Client",
               "Manage_your_Clients/Importing-Clients"
             ]
-          },{
+          },
+          {
             "group": "Business Policy",
             "pages": [
               "Business_Policy/Consent-Policies",
@@ -79,26 +83,6 @@
             "pages": []
           }
         ]
-      },
-      {
-        "tab": "Updates",
-        "groups": [
-          {
-            "group": "API Documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint Examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
-          }
-        ]
       }
     ]
   },
@@ -109,18 +93,3 @@
   "navbar": {
     "links": [
       {
-        "label": "Support",
-        "href": "mailto:info@heyallset.com"
-      },
-      {
-        "label": "Reseller",
-        "href": "mailto:info@heyallset.com"
-      }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Dashboard",
-      "href": "https://app.heyallset.com"
-    }
-  }
-}
