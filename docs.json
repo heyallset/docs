@@ -92,7 +92,9 @@
             "pages": [
               "updates/Feature-release"
             ]
-          },
+          }
+        ]
+      },
       {
         "dropdown": "Updates",
         "icon": "bullhorn",
