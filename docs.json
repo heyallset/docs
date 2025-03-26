@@ -3,6 +3,7 @@
   "theme": "maple",
   "name": "All Set",
   "description": "Guides and updates for All Set",
+  "icons": "fontawesome",
   "colors": {
     "primary": "#FEFE53",
     "light": "#F5F3EF",
