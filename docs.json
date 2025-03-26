@@ -4,7 +4,8 @@
   "name": "All Set",
   "description": "Guides and updates for All Set",
   "icons": {
-    "library": "fontawesome"
+    "library": "fontawesome",
+    "color": "FEFE53"
   },
   "colors": {
     "primary": "#FEFE53",
