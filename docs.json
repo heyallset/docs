@@ -44,7 +44,7 @@
               "Sales_and_Payments/Creating-New-Checkout",
               "Sales_and_Payments/Pay-by-Cash",
               "Sales_and_Payments/Paying-by-Card",
-              "Sales_and_Payments/Voiding-a-Sale-Trnsaction"
+              "Sales_and_Payments/Voiding-a-Sale-Transaction"
             ]
           },{
             "group": "Manage your clients",
