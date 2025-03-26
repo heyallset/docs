@@ -84,6 +84,16 @@
         ]
       },
       {
+        "dropdown": "Admin Portal",
+        "icon": "rectangle-history",
+        "groups": [
+          {
+            "group": "Feature",
+            "pages": [
+              "updates/Feature-release"
+            ]
+          },
+      {
         "dropdown": "Updates",
         "icon": "bullhorn",
         "groups": [
