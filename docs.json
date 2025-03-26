@@ -101,7 +101,7 @@
       },
       {
         "label": "Updates",
-        "href": "https://guides.heyallset.com/updates"
+        "pages": "/updates"
       }
     ],
     "primary": {
