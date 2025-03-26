@@ -20,7 +20,7 @@
     "dropdowns": [
       {
         "dropdown": "Merchant Portal",
-        "icon": "fa-regular fa-table-columns",
+        "icon": "regular,table-columns",
         "groups": [
           {
             "group": "Start Here",
