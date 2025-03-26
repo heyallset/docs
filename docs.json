@@ -80,12 +80,13 @@
               "Export_Clients/Exporting-Clients-from-Square",
               "Export_Clients/Exporting-Clients-from-Vagaro"
             ]
-          },
-          {
-            "group": "Essentials",
-            "pages": []
           }
         ]
+      }
+      {
+        "dropdown": "Updates",
+        "icon": "bullhorn",
+        "pages": "/updates"
       }
     ]
   },
