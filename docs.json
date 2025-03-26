@@ -86,8 +86,13 @@
       {
         "dropdown": "Updates",
         "icon": "bullhorn",
-        "pages": "Updates/updates"
-      }
+        "groups": [
+          {
+            "group": "Feature",
+            "pages": [
+              "updates/Feature-release",
+            ]
+          }
     ]
   },
   "logo": {
