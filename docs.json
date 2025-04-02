@@ -88,9 +88,9 @@
         "icon": "rectangle-history",
         "groups": [
           {
-            "group": "Feature",
+            "group": "Gateway Setup",
             "pages": [
-              "Updates/Feature-release"
+              "Admin_Panel/How-to-Set-Up-API-Key"
             ]
           }
         ]
