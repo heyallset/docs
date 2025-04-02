@@ -88,7 +88,7 @@
         "icon": "rectangle-history",
         "groups": [
           {
-            "group": "Gateway",
+            "group": "Gateway Set Up",
             "pages": [
               "Admin_Panel/Set-up-Accept-Blue"
             ]
